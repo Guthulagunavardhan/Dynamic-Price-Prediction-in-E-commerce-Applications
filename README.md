@@ -140,5 +140,5 @@ An advanced e-commerce platform that leverages machine learning algorithms to pr
 ### Step-by-Step Installation
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/dynamic-price-prediction.git
+   git clone https://github.com/Guthulagunavardhan/dynamic-price-prediction.git
    cd dynamic-price-prediction
