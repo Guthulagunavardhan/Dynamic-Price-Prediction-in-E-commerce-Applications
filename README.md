@@ -134,7 +134,7 @@ An advanced e-commerce platform that leverages machine learning algorithms to pr
 - Node.js (v14 or higher)
 - Python 3.8+
 - npm or yarn
-- MongoDB
+- MySql we used my sql beause MySQL ensures strong data consistency and supports complex relationships, which are crucial for handling orders, payments, and inventory in e-commerce.
 - Git
 
 ### Step-by-Step Installation
